@@ -1,4 +1,4 @@
 ## AI
-Before you use AI to do something, please be mindful of WTF is this doing, you can't just send a table to AI and let it do polynomial regression for you
+Before you use AI to do something, please be mindful of WTF is this doing, you can't just send a table to AI and let it do linear interpolation for you
 
-Please use it to generate a polynomial written by code or sth and THEN send your table to do it
+Please use it to generate a interpolation script or sth and THEN send your table to do it
